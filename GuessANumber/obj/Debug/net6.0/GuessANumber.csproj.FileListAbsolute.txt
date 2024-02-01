@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\bin\Debug\net6.0\GuessANumber.exe
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\bin\Debug\net6.0\GuessANumber.deps.json
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\bin\Debug\net6.0\GuessANumber.runtimeconfig.json
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\bin\Debug\net6.0\GuessANumber.dll
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\bin\Debug\net6.0\GuessANumber.pdb
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\obj\Debug\net6.0\GuessANumber.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\obj\Debug\net6.0\GuessANumber.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\obj\Debug\net6.0\GuessANumber.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\obj\Debug\net6.0\GuessANumber.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\obj\Debug\net6.0\GuessANumber.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\obj\Debug\net6.0\GuessANumber.dll
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\obj\Debug\net6.0\refint\GuessANumber.dll
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\obj\Debug\net6.0\GuessANumber.pdb
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\obj\Debug\net6.0\GuessANumber.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Кармен 15\Проекти\GuessANumber\obj\Debug\net6.0\ref\GuessANumber.dll
